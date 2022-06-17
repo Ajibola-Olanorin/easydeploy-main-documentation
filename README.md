@@ -16,8 +16,8 @@ A solution to deploy web apps faster.
 > The Live Server extension automatically preview your files without refreshing your browser page
 
 ## Tool Used
-VS Code
-Photoshop (For editing logos and icons)
+- VS Code
+- Photoshop (For editing logos and icons)
 
 
 **Have fun!!!**
