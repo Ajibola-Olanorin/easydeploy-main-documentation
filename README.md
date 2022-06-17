@@ -1,4 +1,4 @@
-# Easy Deploy Documentation
+# EasyDeploy Documentation
 ## This website was developed using just HTML and CSS (Flexbox grid and Animation)
 
 A solution to deploy web apps faster.
