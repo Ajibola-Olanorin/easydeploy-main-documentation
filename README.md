@@ -21,10 +21,10 @@ https://user-images.githubusercontent.com/97596106/174411649-fd876b3e-f278-4e85-
 
 > The Live Server extension automatically previews your files within VS Code.
 
-## Tool Used
+## Tools
 - VS Code
 - Photoshop (For editing logos and icons)
 
 
-**Have fun!!!**
+**Have fun!!**
 
